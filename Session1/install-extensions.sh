@@ -1,21 +1,3 @@
-# Angular-Tutorial
-
-## Session 1
-
-Tools:
-
-### Install Visual Studio Code
-
-[Download here](https://code.visualstudio.com/download)
-
-### Install Node.js LTS Version
-
-[Download here](https://nodejs.org/dist/v16.13.1/node-v16.13.1-x64.msi)
-
-### VS Code Extensions
-
-Run this commands in terminal
-```
 code --install-extension aaron-bond.better-comments
 code --install-extension abusaidm.html-snippets
 code --install-extension Angular.ng-template
@@ -49,4 +31,3 @@ code --install-extension waderyan.gitblame
 code --install-extension wmaurer.change-case
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension Zignd.html-css-class-completion
-```
