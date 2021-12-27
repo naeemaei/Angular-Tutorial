@@ -94,9 +94,9 @@ MatDialogModule
             <h1>آموزش انگولار</h1>
             <p class="lead text-muted">ارتباط بین کامپوننت ها</p>
             <p>
-                <a [routerLink]='["/1"]' class="btn btn-primary my-2">مثال یک</a>
+                <a [routerLink]='["/page1"]' class="btn btn-primary my-2">مثال یک</a>
 
-                <a [routerLink]='["/2"]' class="btn btn-secondary my-2">مثال دو</a>
+                <a [routerLink]='["/page2"]' class="btn btn-secondary my-2">مثال دو</a>
             </p>
         </div>
     </section>
